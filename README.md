@@ -44,7 +44,9 @@ os (para manipulação de arquivos e diretórios)
 
 │-- extrair_nfes.py
 
-│-- NotasFiscais.xlsx (gerado automaticamente)🚀 Como Utilizar
+│-- NotasFiscais.xlsx (gerado automaticamente)
+
+🚀 Como Utilizar
 
 
 1️⃣ Instalar Dependências
