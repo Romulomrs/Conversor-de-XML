@@ -33,12 +33,19 @@ pandas (para manipulação de dados e geração do Excel)
 os (para manipulação de arquivos e diretórios)
 
 📁 Projeto
+
 │-- 📁 nfs
+
 │   │-- arquivo1.xml
+
 │   │-- arquivo2.xml
+
 │   │-- ...
+
 │-- extrair_nfes.py
+
 │-- NotasFiscais.xlsx (gerado automaticamente)🚀 Como Utilizar
+
 
 1️⃣ Instalar Dependências
 Antes de executar o código, certifique-se de ter instalado as bibliotecas necessárias. Caso não tenha, execute o seguinte comando:
