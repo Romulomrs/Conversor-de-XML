@@ -1,6 +1,7 @@
 Extrator de Informações de Notas Fiscais em XML
 
 Este projeto tem como objetivo extrair informações de notas fiscais eletrônicas (NFe) em formato XML e exportá-las para um arquivo Excel (.xlsx).
+
 📌 Funcionalidades
 
 Lê arquivos XML de notas fiscais armazenados no diretório nfs.
@@ -65,11 +66,13 @@ python extrair_nfes.py
 4️⃣ Verificar o Arquivo Gerado
 
 Após a execução, um arquivo chamado NotasFiscais.xlsx será gerado na pasta do projeto, contendo as informações extraídas das notas fiscais.
+
 ❗ Observações
 
 Caso uma nota fiscal não contenha informações sobre o peso, o script adicionará "Não informado" nessa coluna.
 
 O script reconhece tanto arquivos XML com estrutura padrão (NFe) quanto arquivos encapsulados (nfeProc).
+
 
 📞 Contato
 
